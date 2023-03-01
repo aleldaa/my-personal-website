@@ -14,3 +14,11 @@ div#intro {
     margin-left: 20%;
     margin-top: 15%;
 }
+#headshot {
+    max-width: 200px;
+    margin-left: 50%;
+    margin-top: 130%;
+}
+.main {
+    display: flex;
+}
