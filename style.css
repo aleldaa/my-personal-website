@@ -11,7 +11,8 @@ h5 {
 }
 #headshot {
     max-width: 200px;
-    padding: 40px
+    padding: 40px;
+    border-radius: 50%;
 }
 .main {
     display: flex;
