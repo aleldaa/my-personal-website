@@ -1,5 +1,5 @@
 body {
-    background: rgb(255, 255, 255);
+    background:rgb(254, 130, 215);
 }
 h1 , h2, h5 {
     font-family: 'Courier New', Courier, monospace;
@@ -22,4 +22,10 @@ h5 {
     height: 50%;
     background: rgba(0, 0, 0, 0.397);
     border-radius: 25px 25px 25px 25px;
+    text-shadow: 0 0 3px #000;
+}
+.button1 {
+    background:rgb(254, 130, 215);
+    border-radius: 15px 15px 15px 15px;
+    margin-left: 40%;
 }
