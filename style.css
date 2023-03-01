@@ -16,9 +16,12 @@ div#intro {
 }
 #headshot {
     max-width: 200px;
-    margin-left: 50%;
+    margin-left: 30%;
     margin-top: 130%;
 }
 .main {
     display: flex;
+    margin: 0 auto;
+    width: 80%;
+    height: 50%;
 }
