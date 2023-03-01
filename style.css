@@ -1,28 +1,24 @@
 body {
-    background: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
 }
-h1 {
+h1 , h2, h5 {
     font-family: 'Courier New', Courier, monospace;
     color: rgb(254, 130, 215);
+    padding-left: 20px;
 }
-h2 {
-    color:rgb(254, 130, 215);
-    font-family: 'Courier New', Courier, monospace;
-}
-
-div#intro {
-    margin-left: 20%;
-    margin-top: 15%;
-
+h5 {
+    padding-left: 50px;
 }
 #headshot {
     max-width: 200px;
-    margin-left: 30%;
-    margin-top: 130%;
+    padding: 40px
 }
 .main {
     display: flex;
     margin: 0 auto;
-    width: 80%;
+    margin-top: 10%;
+    width: 50%;
     height: 50%;
+    background: rgba(0, 0, 0, 0.397);
+    border-radius: 25px 25px 25px 25px;
 }
